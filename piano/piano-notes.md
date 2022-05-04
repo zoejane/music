@@ -2,4 +2,4 @@
 
 This is my notes.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.146%;"><iframe src="https://streamable.com/e/yslhdu" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/D_uLM5i0Z4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
